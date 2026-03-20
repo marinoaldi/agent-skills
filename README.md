@@ -1,6 +1,6 @@
 # agent-skills
 
-A public collection of reusable skills for AI agents — clean, well-documented, and easy to extend.
+A public collection of reusable skills for AI agents, with templates, examples, and experiments.
 
 ---
 
