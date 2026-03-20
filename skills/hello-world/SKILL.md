@@ -1,3 +1,8 @@
+---
+name: hello-world
+description: A friendly greeting skill that returns a HELLO WORLD ASCII banner and a short welcome message.
+---
+
 # Skill: hello-world
 
 ## Trigger
