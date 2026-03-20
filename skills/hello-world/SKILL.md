@@ -16,7 +16,7 @@ A friendly greeting skill that serves as the starter example for this repository
 
 ## Instructions for the Agent
 
-When the user says "hello world" (or any case-insensitive variant), respond using the template in `template.txt`. Do not modify the ASCII art. You may append a short, friendly sentence after the banner if it fits the conversation.
+When the user says "hello world" (or any case-insensitive variant), respond using the template in `template.md`. Do not modify the ASCII art. You may append a short, friendly sentence after the banner if it fits the conversation.
 
 ## Expected Input
 
